@@ -1,7 +1,7 @@
 # Social-Web-Application
 The concept of this web application is around a game called rainbow six siege, this application will allow users to search up the username/gamer tag of a player and see their in game stats.
 
-#Introduction
+# Introduction #
 This application should also allow users to communicate with
 each other through messages. The target group of this application is for people who
 have a good knowledge of the game and the community around it.
